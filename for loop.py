@@ -1,4 +1,13 @@
-a=int(input("enter the name"))
+name=('ayush')
+for i in name:
+ print(i)
+ if i=="y":
+    print("ayush ")
 
-for a in range(0,a):
-   print("jai mahakal")
+for i in range(50):
+    print(i)
+ayush=("janmbhumi,amethi,agra,")
+for i in ayush:
+    print(i)
+    if (i=="a"):
+        print("break for lunch")
